@@ -14,6 +14,8 @@
 
 ## Current projects
 
+- **Spektre** — Detect suspicious player behavior in FPS games using AI 
+- **Grumpi** — Turn negative app reviews into actionable product insights 
 - **WeBumpIt** — Local businesses without a website, found and tracked 
 - **Woofit** — Turns dog walks into a fun game with goals, rewards, and progress
 - **TrendShort** — Analyze the videos going viral
