@@ -14,6 +14,7 @@
 
 ## Current projects
 
+- **AutoShort** — A local AI-powered video editor
 - **Spektre** — Detect suspicious player behavior in FPS games using AI 
 - **Grumpi** — Turn negative app reviews into actionable product insights 
 - **WeBumpIt** — Local businesses without a website, found and tracked 
